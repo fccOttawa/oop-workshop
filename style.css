@@ -1,0 +1,22 @@
+body {
+	font-family: Helvetica, sans-serif;
+	color: #fff;
+	background-color: #5e2b97;
+	padding: 5px 50px;
+}
+
+h1 {
+	text-align: center;
+	color: #0add69;
+	margin-bottom: 10px;
+}
+
+iframe {
+	margin-bottom: 40px;
+}
+
+footer {
+	text-align: center;
+	color: #0add69;
+	padding-top: 30px;
+}
